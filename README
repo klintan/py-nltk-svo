@@ -1,0 +1,5 @@
+A small SVO extractor written in Python for the great library NLTK. 
+
+Alpha version, so it might not be the best implementation.
+Rewritten from https://github.com/pradeep-gnr/SVO_Extractor to be able to run it
+without jython.
