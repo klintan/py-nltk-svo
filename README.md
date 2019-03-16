@@ -1,4 +1,4 @@
-#Python SVO Extractor using NLTK
+# Python SVO Extractor using NLTK
 A small SVO extractor written in Python for the great library NLTK.
 
 ## Installation/Dependencies
